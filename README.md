@@ -31,9 +31,6 @@ A modern iOS task management application built using **SwiftUI** and **SwiftData
 3.  Ensure the Minimum Deployment Target is set to **iOS 17.0**.
 4.  Press `Cmd + R` to run the app in the Simulator.
 
-## 📸 Screenshots
-
-*(Add your app screenshots here)*
 
 ## 👤 Author
 
